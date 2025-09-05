@@ -174,7 +174,7 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #3e98b1;
+  color: #07b2f5;
 }
 
 .nav-menu a:hover,
@@ -202,7 +202,7 @@ h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #ffffff;
   color: #fff;
   width: 40px;
   height: 40px;
